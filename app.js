@@ -30,7 +30,6 @@ const main = async () => {
         console.log("Minima: ", clima.min);
         console.log("Maxima: ", clima.max);
         console.log("¿Como esta el clima?: ", clima.desc);
-
         break;
       case 2:
         console.clear()
